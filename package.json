@@ -4,7 +4,7 @@
   "description": "jRespond is a simple way to globally manage javascript on responsive websites.",
   "version": "0.0.1",
   "repository": {
-    "url": "git@github.com:thejsj/jRespond.git"
+    "url": "git@github.com:BergischMedia/jRespond.git"
   },
   "main": "./js/jRespond.js",
   "keywords": [
