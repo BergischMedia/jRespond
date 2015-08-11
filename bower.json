@@ -6,7 +6,7 @@
     "Jeremy Fields <jeremy.fields@viget.com>"
   ],
   "description": "A simple way to globally manage JavaScript on responsive websites",
-  "main": "index.html",
+  "main": "./js/jRespond.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
